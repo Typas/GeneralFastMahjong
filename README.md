@@ -1,4 +1,4 @@
-# 通用三人麻雀 General Fast Mahjong #
+# 通用三人麻雀 General Fast Mahjong v0.5 #
 
 因應現代快速步調，自[通用麻雀][1]簡化而成的三人麻將規則。
 
@@ -12,8 +12,5 @@ Note: these original edition of rules are only written in Traditional Chinese.
 - [分數](./score.md)：役種的說明與分值。
   - [分數表](./table.md)：役種的對應分數表，與役種類別。
 - [支付法](./payment.md)：一局結束後的分數支付方法。
-
-## 贊助 Donation ##
-Donate me in Ethereum: typas.eth
 
 [1]: https://github.com/Typas/GeneralMahjong/
